@@ -55,3 +55,4 @@
 | 2025-02-21 | Micah | Update update_contributions.yml | 3a31fe6155ad1ccb591dc6d39fb808faa31b3e28 |
 | 2025-02-21 | Micah | Delete CONTRIBUTIONS.md | 1a096630134a4332f481f3a69b88b646712bf000 |
 | 2025-02-21 | Micah | Update ATTRIBUTIONS.md | 7224d6c36cea86d8345a8d8e12b6f05a5f806745 |
+| 2025-03-03 | James | Submitted bug report to Bugs issue: https://github.com/CSC-590-Open-Source-Development/General/issues/2#issuecomment-2686354247 | N/A |
